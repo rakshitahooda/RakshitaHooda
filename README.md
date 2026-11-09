@@ -30,6 +30,6 @@ An interactive pixel-art project built around a grid.<br>
 
 ## 03 / in progress
 
-Building stronger foundations in machine learning, algorithms and reliable software—one experiment at a time.
+Building stronger foundations in machine learning, algorithms and reliable software, one experiment at a time.
 
 <sub>learning, building, and figuring things out.</sub>
