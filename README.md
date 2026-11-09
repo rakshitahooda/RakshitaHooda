@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-signal.png" alt="Rakshita — computer science, with curiosity. Software, machine learning, experiments." width="100%" />
+  <img src="./profile-signal.gif" alt="Animated AMOLED-black profile dashboard: Rakshita’s bio, skills and projects in terminal-green, with a purple-and-yellow spaceship in flight." width="100%" />
 </p>
 
 # hey, i'm rakshita
